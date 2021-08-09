@@ -8,6 +8,7 @@ Visita https://faqtoff.com
 
 ## Recomendaciones:
 Se recomienda usar el IDE "Thonny" https://thonny.org/
+Leer y estudiar PyFormat https://pyformat.info/
 
 ### Cursos de YouTube:
 #### Python desde 0 by Pildorasinformaticas
