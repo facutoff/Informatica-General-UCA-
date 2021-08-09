@@ -4,6 +4,8 @@
 - Lenguaje: Python
 - Año: 2018/19
 
+Visita faqtoff.com
+
 ## Recomendaciones:
 Se recomienda usar el IDE "Thonny" https://thonny.org/
 
